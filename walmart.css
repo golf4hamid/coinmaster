@@ -1,0 +1,23 @@
+body { 
+    background: #FFFFFF !important;
+}
+
+
+#a-nav {   
+  background-color: #0078C0 !important;
+    color: #FFD136 !important;
+}
+
+#a-nav h1 {color: #FFD136 !important;}
+
+.sweet-alert h2 {color: #0078C0 !important;}
+
+.subtitle {font-size: 16px !important;Â padding: 0 30px !important;}
+
+.title-small {color: #0078C0 !important;}
+
+.sweet-alert button, .sweet-alert button:hover {background: #0078C0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
